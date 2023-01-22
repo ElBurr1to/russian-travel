@@ -1,0 +1,15 @@
+.page__header {
+  margin: 0 48px auto;
+}
+
+@media (max-width: 1023px) {
+  .page__header {
+    margin: 0 24px auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .page__header {
+    margin: 0 16px auto;
+  }
+}
