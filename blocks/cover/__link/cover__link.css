@@ -16,8 +16,7 @@
 
 @media (max-width: 1279px) {
   .cover__link {
-    height: 62.5vw;
-    min-height: 200px;
+    min-height: 62.5vw;
   }
 }
 
